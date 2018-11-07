@@ -1,0 +1,9 @@
+A set of tests input/output for assignment
+cs315001s18: pa1-b 
+February 18, 2018
+
+ in10.txt out10.txt
+ in100.txt out1a00.txt
+ in10K.txt out10K.txt
+ in100K.txt out100K.txt
+
